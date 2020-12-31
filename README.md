@@ -1,16 +1,23 @@
-# ai_radio
+## AI Powered Digital Radio
 
-A new Flutter project.
+This project is implemented using Flutter framework and Alan AI platform. VelocityX framework is used to design the user interfaces. Serveral live streaming radio APIs have been used as radio channels.  
 
-## Getting Started
+User can control the radio player with casual voice command. Such as,  
 
-This project is a starting point for a Flutter application.
+> - What does this app do?
+> - Play some music
+> - Play next channel
+> - Play previous channel
+> - Play some classic music
+> - Play 98.2 FM
+> - Stop the music
 
-A few resources to get you started if this is your first Flutter project:
+Not only that, this app also responds to casual converstions using the SmallTalk AI script intergrated into it.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### Here are some snapshots of the running application
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| ![GitHub Logo](/assets/ss1.png) | ![GitHub Logo](/assets/ss2.png) | ![GitHub Logo](/assets/ss3.png) | ![GitHub Logo](/assets/ss4.png) |
+| -------------- | ---------------| -------------| -------------|  
+  
+  
+---
